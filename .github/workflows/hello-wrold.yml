@@ -1,0 +1,23 @@
+name: Hello World Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  hello-world-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print Hello Message
+        run: echo "Hello World"
+
+      - name: Show Date
+        run: date
+
+      - name: Show Files
+        run: ls
+
+      - name: Show Current User
+        run: whoami
