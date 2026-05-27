@@ -1,0 +1,15 @@
+---
+name: Anand
+job: Developer
+Skill: Java
+employeed: True
+foods:
+  - Apple
+  - Orange
+  - Mango
+languages: 
+  - perl: elite
+  - python: elite
+  - pascal: Lamee
+education: |
+   Hi my name is Anand

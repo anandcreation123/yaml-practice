@@ -1,0 +1,21 @@
+---
+employee1:
+  - name: Anand
+  - age: 25
+  - salary: 900.78
+  - active: True
+  - skills: Java
+  - address: Hosur
+  - projects: |
+      I build student 
+      feedback management
+      system
+  - experiance: 1
+  - about: |
+     my name is Anand
+languages:
+  - tamil
+  - telugu
+  - kannada
+  - english
+  

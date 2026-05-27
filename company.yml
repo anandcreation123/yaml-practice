@@ -1,0 +1,28 @@
+---
+company:
+  name: Bizentrix
+  active: true
+  founded_year: 2026
+  ratings: 4.9
+
+employees:
+  - Suresh
+  - Appu
+  - Anand
+
+skills:
+  - Java
+  - Python
+  - Go
+
+address:
+  city: Hosur
+  state: Tamil Nadu
+  country: India
+
+experience: null
+
+about: |
+  Bizentrix IT Solution Pvt Ltd
+  The company works on cloud and DevOps projects.
+  Employees are learning Docker and Kubernetes.
